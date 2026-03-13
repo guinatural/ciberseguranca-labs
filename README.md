@@ -1,39 +1,39 @@
-# Cibersegurança: Labs, Redes e Defesa Prática
+# Ciberseguranca: Labs, Redes e Defesa Pratica
 
 ---
 
-## Sobre o Repositório
-Este repositório é dedicado ao registro prático da minha jornada na área de **Cibersegurança**, com foco especial nos laboratórios do programa **Hackers do Bem** (iniciativa MCTI, Softex e SENAI). Aqui documento o estudo de vulnerabilidades, a defesa de perímetros e o hardening de sistemas, aplicando conceitos reais de defesa cibernética.
+## Sobre o Repositorio
+Este repositorio e dedicado ao registro pratico da minha jornada na area de Ciberseguranca, com foco especial nos laboratorios do programa Hackers do Bem (iniciativa MCTI, Softex e SENAI). Aqui documento o estudo de vulnerabilidades, a defesa de perimetros e o hardening de sistemas, aplicando conceitos reais de defesa cibernetica.
 
 ---
 
-## Pilares de Estudo e Prática
+## Pilares de Estudo e Pratica
 
 ### Defesa e Hardening
-- **Windows Server:** Implementação de políticas de grupo (GPO), gestão de Active Directory e segurança de servidores.
-- **Linux Security:** Configuração de firewalls, gestão de privilégios e auditoria de sistemas via terminal.
-- **Segurança de Identidade:** Aplicação de autenticação multifator (MFA) e controle de acesso baseado em roles (RBAC).
+- **Windows Server:** Implementacao de politicas de grupo (GPO), gestao de Active Directory e seguranca de servidores.
+- **Linux Security:** Configuracao de firewalls, gestao de privilegios e auditoria de sistemas via terminal.
+- **Seguranca de Identidade:** Aplicacao de autenticacao multifator (MFA) e controle de acesso baseado em roles (RBAC).
 
-### Redes e Perímetros
-- **TCP/IP Deep Dive:** Análise de pacotes, protocolos de rede e mapeamento de topologias seguras.
-- **VPN & Firewall:** Configuração de conexões seguras e regras de tráfego para mitigação de ataques.
-- **Kali Linux:** Uso de ferramentas de diagnóstico de rede e análise de superfície de ataque.
+### Redes e Perimetros
+- **TCP/IP Deep Dive:** Analise de pacotes, protocolos de rede e mapeamento de topologias seguras.
+- **VPN & Firewall:** Configuracao de conexoes seguras e regras de trafego para mitigacao de ataques.
+- **Kali Linux:** Uso de ferramentas de diagnostico de rede e analise de superficie de ataque.
 
 ### Forense e Monitoramento
-- **Análise de Incidentes:** Fundamentos de forense computacional e preservação de evidências digitais.
-- **Monitoramento:** Coleta de logs e identificação de padrões de tráfego anômalos.
-- **Compliance:** Alinhamento técnico com as melhores práticas de mercado e regulação vigente.
+- **Analise de Incidentes:** Fundamentos de forense computacional e preservacao de evidencias digitais.
+- **Monitoramento:** Coleta de logs e identificacao de padroes de trafego anomalos.
+- **Compliance:** Alinhamento tecnico com as melhores praticas de mercado e regulacao vigente.
 
 ---
 
-## Jornada Acadêmica
-- **Hackers do Bem — Fundamental:** Fundamentos de redes, segurança e ética hacker.
-- **Certificação em Foco:** Preparação contínua para certificações de entrada em Cibersegurança.
+## Jornada Academica
+- **Hackers do Bem — Fundamental:** Fundamentos de redes, seguranca e etica hacker.
+- **Certificacao em Foco:** Preparacao continua para certificacoes de entrada em Ciberseguranca.
 
 ---
 
-## Estrutura de Laboratórios
-| Lab | Área | Ferramentas |
+## Estrutura de Laboratorios
+| Lab | Area | Ferramentas |
 | :--- | :--- | :--- |
 | **Networking Labs** | Infraestrutura | Wireshark, Cisco Packet Tracer. |
 | **Hardening OS** | Sistemas | Active Directory, Linux/Powershell. |
@@ -46,5 +46,4 @@ Este repositório é dedicado ao registro prático da minha jornada na área de 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guinatural)
 
 ---
-
-Segurança é um processo de vigilância e melhoria contínua.
+*Seguranca e um processo de vigilancia e melhoria continua.*
